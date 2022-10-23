@@ -11,4 +11,4 @@ git config --global user.email "e-mail"
 git config --global user.name "Name"
 ```
 
-[<предыдущая](branch.md)/[следующая>](config.md) статья
+[<предыдущая](branch.md)/[следующая>](push.md) статья

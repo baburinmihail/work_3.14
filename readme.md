@@ -3,7 +3,6 @@
 LICENSE: [MIT](./license.md)
 
 ![git-logo](./assets/GitHub_logo_2013.png)
-
 ---
 ### Содержание работы:
 1. [git init](init.md)
@@ -11,10 +10,10 @@ LICENSE: [MIT](./license.md)
 3. [git status](status.md)
 4. [git commit](commit.md)
 5. [git branch](branch.md)
-6. [git config]
-7. [git push]
-8. [git log]
-9. [git archive]
+6. [git config](config.md)
+7. [git push](push.md)
+8. [git log](log.md)
+9. [git archive](archive.md)
 10. [git reset ]
 11. [git clone]
 ---
