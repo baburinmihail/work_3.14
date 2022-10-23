@@ -14,8 +14,8 @@ LICENSE: [MIT](./license.md)
 7. [git push](push.md)
 8. [git log](log.md)
 9. [git archive](archive.md)
-10. [git reset ]
-11. [git clone]
+10. [git reset ](reset.md)
+11. [git clone](clone.md)
 ---
 GiT logo by GitHub.Own work using: https://github.com/logos, 
 license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.ru)
